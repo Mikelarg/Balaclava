@@ -32,3 +32,6 @@ Just a balaclava effect for Instagram and Facebook 👹
 
 ## Contributing
 Also you can make pull requests. Make your icons so other people also could use it. Or make your preview video of this effect. Or even make something new with code. I'll appreciate this.
+
+## TODO
+Soon I'll try to make a video to describe how to upload effect if instructions above are not enough
