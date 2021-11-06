@@ -31,7 +31,12 @@ Just a balaclava effect for Instagram and Facebook 👹
 - **P.S.S Также, когда эффект с балаклавой будет размещен, Вы можете написать мне в личку https://www.instagram.com/dvoshansky/ и я размещу ваш эффект к себе в сторис** 
 
 ## Contributing
-Also you can make pull requests. Make your icons so other people also could use it. Or make your preview video of this effect. Or even make something new with code. I'll appreciate this.
+Also you can make pull requests. 
+- Make your icons so other people also could use it. 
+
+  Info about creating icons here https://sparkar.facebook.com/ar-studio/learn/publishing/icons-and-names-for-spark-ar-effects#icon-ideas-and-best-practice. 
+- Or make your preview video of this effect. 
+- Or even make something new with code. I'll appreciate this.
 
 ## TODO
 I'll try to make a video soon to describe how to upload the effect if the instructions above are not enough
